@@ -13,3 +13,5 @@ with col2:
         specializing in creating dynamic websites using Django. I am 29 years old, 
         I bring both experience and innovation to my work."""
     st.info(content)
+
+st.text("Below you can find some of the apps I have built in Python. Feel free to contact me!")
